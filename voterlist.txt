@@ -1,0 +1,2 @@
+Niraj|2002-10-10|Halgada|password
+Niraj|2002-10-29|Itahari|password
